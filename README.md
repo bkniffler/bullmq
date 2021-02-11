@@ -39,7 +39,7 @@ Please vote here: https://twitter.com/manast/status/1318168684049977345
 
 [<img src="http://taskforce.sh/assets/logo_square.png" width="100" alt="Taskforce.sh, Inc" style="padding: 100px"/>](https://taskforce.sh)
 
-Super charge your queues with a profesional front end and optional Redis hosting:
+Super charge your queues with a professional front end and optional Redis hosting:
 - Get a complete overview of all your queues.
 - Inspect jobs, search, retry, or promote delayed jobs.
 - Metrics and statistics.
